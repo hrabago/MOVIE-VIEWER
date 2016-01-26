@@ -40,9 +40,9 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src="//giphy.com/embed/26tnaYBVRlISaWJIk" width="480" height="880" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/26tnaYBVRlISaWJIk">via GIPHY</a></p>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with GIPHY
 
 ## Notes
 
