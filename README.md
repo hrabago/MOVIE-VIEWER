@@ -37,12 +37,10 @@ Please list two areas of the assignment you'd like to **discuss further with you
 2. Animations(loading, fading, etc.,)
 
 ## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
 <img src='https://media.giphy.com/media/26tnaYBVRlISaWJIk/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Here's a walkthrough of implemented user stories:
 
-<iframe src="//giphy.com/embed/26tnaYBVRlISaWJIk" width="480" height="880" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/26tnaYBVRlISaWJIk">via GIPHY</a></p>
 
 GIF created with GIPHY
 
