@@ -24,6 +24,7 @@ The following **additional** features are implemented:
 - [X] Network Error
 - [X] Customized UI
 - [X] In adddition, the Detailed movie View shows the movie's genre, release date, and rating
+- [X] Customized black keyboard
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
@@ -34,7 +35,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 <blockquote class="imgur-embed-pub" lang="en" data-id="GPw77sd"><a href="//imgur.com/GPw77sd">Movie Viewer Week 2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<img src= http://imgur.com/GPw77sd/new title= 'Video Walkthrough' width=' ' alt='Video Walkthrough' />
+<img src= /s.imgur.com/min/embed.js title= 'Video Walkthrough' width=' ' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
