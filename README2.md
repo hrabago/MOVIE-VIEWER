@@ -37,6 +37,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 [Movie Viewer App W2](http://i.imgur.com/GPw77sd.gifv)
 <img src= https://raw.github.com/hrabago/MOVIE-VIEWER/MoviewViewer/MovieViewer2.gif title= 'Video Walkthrough' width=' ' alt='Video Walkthrough' />
 
+<img src='http://http://i.imgur.com/GPw77sd.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
