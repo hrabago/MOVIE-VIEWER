@@ -33,6 +33,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 ## Video Walkthrough 
 
+![alt tag](https://raw.github.com/hrabago/MOVIE-VIEWER/MoviewViewer/MovieViewer2.gif)
 
 <img src= https://raw.github.com/hrabago/MOVIE-VIEWER/MoviewViewer/MovieViewer2.gif title= 'Video Walkthrough' width=' ' alt='Video Walkthrough' />
 
