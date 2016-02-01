@@ -14,6 +14,7 @@
 		C48561471C51B04300F417AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C48561451C51B04300F417AF /* LaunchScreen.storyboard */; };
 		C485614F1C51B0ED00F417AF /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C485614E1C51B0ED00F417AF /* MoviesViewController.swift */; };
 		C48561541C51BE7A00F417AF /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48561531C51BE7A00F417AF /* MovieCell.swift */; };
+		C4A36F6B1C5C1F91004E0385 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4A36F6A1C5C1F91004E0385 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		C48561481C51B04300F417AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C485614E1C51B0ED00F417AF /* MoviesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		C48561531C51BE7A00F417AF /* MovieCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		C4A36F6A1C5C1F91004E0385 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		D707E25B1FF62A75E4EAA317 /* Pods_MoviewViewer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MoviewViewer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -94,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				C485614E1C51B0ED00F417AF /* MoviesViewController.swift */,
+				C4A36F6A1C5C1F91004E0385 /* DetailViewController.swift */,
 			);
 			name = "view controllers";
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 				C485613D1C51B04300F417AF /* AppDelegate.swift in Sources */,
 				C485614F1C51B0ED00F417AF /* MoviesViewController.swift in Sources */,
 				C48561541C51BE7A00F417AF /* MovieCell.swift in Sources */,
+				C4A36F6B1C5C1F91004E0385 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
