@@ -23,6 +23,7 @@ The following **additional** features are implemented:
 - [X] Search Bar
 - [X] Network Error
 - [X] Customized UI
+- [X] In adddition, the Detailed movie View shows the movie's genre, release date, and rating
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
