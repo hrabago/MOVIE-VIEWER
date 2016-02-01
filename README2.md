@@ -33,10 +33,6 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 ## Video Walkthrough 
 
-![alt tag](http://i.imgur.com/GPw77sd.gif)
-
-![Movie Viewer App W2](http://i.imgur.com/GPw77sd.gif)
-
 <img src='http://i.imgur.com/GPw77sd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
